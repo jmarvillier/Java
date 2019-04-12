@@ -1,0 +1,4 @@
+[submodule "Java_Learning_HelloWorld"]
+	path = Java_Learning_HelloWorld
+	url = https://github.com/jmarvillier/Java_Learning_HelloWorld.git
+	branch = master
